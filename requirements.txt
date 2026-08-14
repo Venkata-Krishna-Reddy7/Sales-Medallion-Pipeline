@@ -1,0 +1,4 @@
+# These are provided by the Databricks Runtime when running in a workspace.
+# Listed here for local development, linting, or CI reference only.
+pyspark>=3.5.0
+delta-spark>=3.0.0
